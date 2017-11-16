@@ -2,10 +2,10 @@
 
 ### ulsmith/alpine-apache-php7
 
-Big Thubs up to: [Github](https://github.com/ulsmith/alpine-apache-php7)
+Big Thubs up to: [ulsmith](https://github.com/ulsmith/alpine-apache-php7)
 
-- [Docker Hub](https://hub.docker.com/r/ulsmith/alpine-apache-php7/)
-- [Github](https://github.com/ulsmith/alpine-apache-php7)
+- [Docker Hub: ulsmith/alpine-apache-php7](https://hub.docker.com/r/ulsmith/alpine-apache-php7/)
+- [Github: ulsmith/alpine-apache-php7](https://github.com/ulsmith/alpine-apache-php7)
 
 Supported Environment Variables:
 
